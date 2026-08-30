@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.env\nuploads/*\n!uploads/.gitkeep\nresults/*\n!results/.gitkeep\n
