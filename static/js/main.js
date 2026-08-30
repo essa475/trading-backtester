@@ -1,0 +1,1 @@
+document.addEventListener('input',e=>{if(e.target.id==='search'){let q=e.target.value.toLowerCase();document.querySelectorAll('#trades tbody tr').forEach(r=>r.style.display=r.innerText.toLowerCase().includes(q)?'':'none')}})
